@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-A 2 player console application based Tic-Tac-Toe game.
+A 2 player Tic-Tac-Toe game in C.
